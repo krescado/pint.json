@@ -40,6 +40,7 @@
     "strict_comparison": true,
     "strict_param": true,
     "trailing_comma_in_multiline": true,
-    "whitespace_after_comma_in_array": true
+    "whitespace_after_comma_in_array": true,
+    "single_import_per_statement": true
   }
 }
